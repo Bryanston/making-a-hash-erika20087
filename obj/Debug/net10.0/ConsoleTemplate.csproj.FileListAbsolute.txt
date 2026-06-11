@@ -1,0 +1,5 @@
+/workspaces/making-a-hash-erika20087/obj/Debug/net10.0/ConsoleTemplate.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/making-a-hash-erika20087/obj/Debug/net10.0/ConsoleTemplate.AssemblyInfoInputs.cache
+/workspaces/making-a-hash-erika20087/obj/Debug/net10.0/ConsoleTemplate.AssemblyInfo.cs
+/workspaces/making-a-hash-erika20087/obj/Debug/net10.0/ConsoleTemplate.csproj.CoreCompileInputs.cache
+/workspaces/making-a-hash-erika20087/obj/Debug/net10.0/ConsoleTemplate.sourcelink.json

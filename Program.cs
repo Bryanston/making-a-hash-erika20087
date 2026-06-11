@@ -16,8 +16,8 @@ class Program
 
         foreach(char c in message)
         {
-            int i = int(c);
-            total += i;
+            int integer = int(c);
+            total += integer;
         }
         
         int total2 = total * total;
@@ -26,6 +26,6 @@ class Program
         string middle2 = totalString.Substring(middleIndex, 2);
         int middle = Convert.ToInt32(middle2);
         int hash = middle%limit;
-        Console.WriteLine("Hash value is: ", hash);
+        Console.WriteLine(hash);
     }
 }
